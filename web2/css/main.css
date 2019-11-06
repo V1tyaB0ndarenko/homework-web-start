@@ -1,0 +1,116 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  outline: none;
+}
+
+.price-header{
+  min-height: 803px;
+  padding: 77px 132px 0 123px;
+  display: flex;
+}
+.header-info{
+ margin-left: 73px;
+ font-family: tahoma,sans-serif;
+}
+h2{
+color: #000000;
+font-size: 41px;
+font-weight: 700;
+}
+.subheader{
+color: #000000;
+font-size: 30px;
+font-weight: 400;
+margin-top: 15px;
+}
+.info{
+margin-top: 35px;
+color: #000000;
+font-size: 18px;
+font-weight: 400;
+line-height: 27px;
+}
+
+.price{
+display: inline-block;
+margin-top: 47px;
+color: #313131;
+font-family: Tahoma;
+font-size: 48px;
+font-weight: 400;
+}
+.more-info-button{
+  margin-top: 53px;
+
+}
+.buy-button{
+border-radius: 5px;
+background-color: #f05a22;
+padding: 22px 42px 22px 46px;
+color: #ffffff;
+font-family: Tahoma;
+font-size: 24px;
+font-weight: 700;
+cursor: pointer;
+border:none;
+margin-right: 40px;
+}
+
+.more-info-button{
+  background-color: #ffffff;
+  padding: 21px;
+  color: #f05a22;
+  font-family: Tahoma;
+  font-size: 24px;
+  font-weight: 700;
+  border-radius: 5px;
+  border: 2px solid #f05a22;
+  cursor: pointer;
+
+}
+
+.advantage{
+  padding: 89px 0 99px;
+  min-height: 405px;
+  background-color: #f2f2f2;
+}
+.h3{
+  text-align: center;
+  color: #333333;
+  font-family: Tahoma;
+  font-size: 30px;
+  font-weight: 700;
+  margin-bottom: 93px;
+}
+.container{
+  min-width: 1142px;
+  margin-left: 146px;
+  
+}
+.wrap-advantage{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+}
+.wrap{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.advantage-text{
+  max-width: 181px;
+  margin-top: 25px;
+  color: #333333;
+font-family: "Open Sans";
+font-size: 18px;
+font-weight: 400;
+line-height: 22px;
+}
+.img-advantage{
+  padding-left: 41px;
+}
+
+

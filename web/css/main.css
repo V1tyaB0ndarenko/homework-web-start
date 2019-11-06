@@ -1,0 +1,53 @@
+*{
+  box-sizing: border-box;
+}
+span{
+  display: block;
+  text-align: center;
+}
+
+.container{
+  background-color: #f9f9f9;
+  min-height: 723px;
+}
+h2{
+  text-align: center;
+  padding-top: 100px;
+  font-weight: normal;
+}
+
+
+.wrap{
+  display: flex;
+  margin: 125px 390px  257px 391px;
+  justify-content: space-around;
+  align-items: center;
+
+
+}
+.items{
+  margin-right: 29px;
+}
+
+.item-name{
+ color: #000000;
+font-size: 16px;
+font-weight: 300;
+margin-bottom: 25px;
+}
+
+.item-price{
+color: #000000;
+font-size: 18px;
+font-weight: 700;
+margin-bottom: 25px;
+}
+.btn{
+  border: 2px solid #9cdee1;
+  background-color: #ffffff;
+  padding: 23px 75px;
+  text-transform: uppercase;
+}
+.btn-last{
+  margin-left:30px ;
+}
